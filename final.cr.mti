@@ -1,0 +1,30 @@
+E:/Modeltech_pe_edu_10.4a/examples/finalexam/dataflow.vhd {2 {vcom -work work -2002 -explicit -stats=none E:/Modeltech_pe_edu_10.4a/examples/finalexam/dataflow.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity dataflow
+-- Compiling architecture behave of dataflow
+** Warning: E:/Modeltech_pe_edu_10.4a/examples/finalexam/dataflow.vhd(43): (vcom-1090) Possible infinite loop: Process contains no WAIT statement.
+
+** Warning: E:/Modeltech_pe_edu_10.4a/examples/finalexam/dataflow.vhd(56): (vcom-1090) Possible infinite loop: Process contains no WAIT statement.
+
+** Warning: E:/Modeltech_pe_edu_10.4a/examples/finalexam/dataflow.vhd(77): (vcom-1090) Possible infinite loop: Process contains no WAIT statement.
+
+
+} {} {}} E:/Modeltech_pe_edu_10.4a/examples/finalexam/counters.vhd {0 {vcom -work work -2002 -explicit -stats=none E:/Modeltech_pe_edu_10.4a/examples/finalexam/counters.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity conters
+-- Compiling architecture behave of counters
+** Error: (vcom-11) Could not find work.counters.
+
+** Error: E:/Modeltech_pe_edu_10.4a/examples/finalexam/counters.vhd(20): VHDL Compiler exiting
+
+} {10.0 11.0 12.0 13.0} {}}
